@@ -195,7 +195,7 @@ int main()
     if(compression_ratio > 1 && compression_ratio < 1.5)
         cout<<" it went great";
     else if(compression_ratio > 1.5)
-        cout<<" it went fucking Great!!!!!";
+        cout<<" it went really Great!!!!!";
     cout<<endl;
     string FILENAME_EXT_REM = "";
     for(int i = 0; i < (int)FILE_NAME.length() - 4; i++)
